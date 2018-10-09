@@ -1,6 +1,7 @@
 html {
   font-family: 'Fredoka One', sans-serif;
   text-align: left center;
+  background-color: #c9fcff;
 
 }
 h1 {
@@ -9,10 +10,12 @@ h1 {
 
 h2 {
   color: #c09;
+  max-width: 19em;
 }
 
 .btn {
   color: #c09;
+  background-color:
 }
 
 .btn-ghost {
